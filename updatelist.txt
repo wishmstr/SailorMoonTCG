@@ -1,0 +1,9 @@
+SailorMoonTCG	01-22-22
+plugins/SailorMoonTCG/plugininfo.txt	https://raw.githubusercontent.com/wishmstr/SailorMoonTCG/main/plugininfo.txt	241349
+plugins/SailorMoonTCG/pluginpreferences.txt	https://raw.githubusercontent.com/wishmstr/SailorMoonTCG/main/pluginpreferences.txt	294291
+plugins/SailorMoonTCG/sets/carddata.txt	https://raw.githubusercontent.com/wishmstr/SailorMoonTCG/main/sets/carddata.txt	4143321
+plugins/SailorMoonTCG/sets/setimages/general/cardback.jpg	https://raw.githubusercontent.com/wishmstr/SailorMoonTCG/main/sets/setimages/general/cardback.jpg	218523
+plugins/SailorMoonTCG/sets/setimages/general/spawned.jpg	https://raw.githubusercontent.com/wishmstr/SailorMoonTCG/main/sets/setimages/general/spawned.jpg	218523
+plugins/SailorMoonTCG/CardImageURLs1.txt	https://raw.githubusercontent.com/wishmstr/SailorMoonTCG/main/CardImageURLs1.txt	2513822
+CardURLFiles:
+CardImageURLs1.txt
