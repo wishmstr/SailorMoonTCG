@@ -13,6 +13,10 @@
      <label>Starting</label>
 </deckzone>
 
+<deckzone>
+     <label>JKP</label>
+</deckzone>
+
 //Table Zones
 <gamezone>
      <label>Hand</label>
@@ -31,6 +35,11 @@
 
 <gamezone>
      <label>Starting</label>
+     <visibletoowner>yes</visibletoowner>
+</gamezone>
+
+<gamezone>
+     <label>JKP</label>
      <visibletoowner>yes</visibletoowner>
 </gamezone>
 
