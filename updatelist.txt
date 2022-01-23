@@ -1,9 +1,19 @@
-SailorMoonTCG	01-22-22
-plugins/SailorMoonTCG/plugininfo.txt	https://raw.githubusercontent.com/wishmstr/SailorMoonTCG/main/plugininfo.txt	241349
+SailorMoonTCG	01-23-22
+plugins/SailorMoonTCG/plugininfo.txt	https://raw.githubusercontent.com/wishmstr/SailorMoonTCG/main/plugininfo.txt	252601
 plugins/SailorMoonTCG/pluginpreferences.txt	https://raw.githubusercontent.com/wishmstr/SailorMoonTCG/main/pluginpreferences.txt	294291
-plugins/SailorMoonTCG/sets/carddata.txt	https://raw.githubusercontent.com/wishmstr/SailorMoonTCG/main/sets/carddata.txt	4143321
+plugins/SailorMoonTCG/sets/carddata.txt	https://raw.githubusercontent.com/wishmstr/SailorMoonTCG/main/sets/carddata.txt	4142469
 plugins/SailorMoonTCG/sets/setimages/general/cardback.jpg	https://raw.githubusercontent.com/wishmstr/SailorMoonTCG/main/sets/setimages/general/cardback.jpg	218523
 plugins/SailorMoonTCG/sets/setimages/general/spawned.jpg	https://raw.githubusercontent.com/wishmstr/SailorMoonTCG/main/sets/setimages/general/spawned.jpg	218523
 plugins/SailorMoonTCG/CardImageURLs1.txt	https://raw.githubusercontent.com/wishmstr/SailorMoonTCG/main/CardImageURLs1.txt	2513822
+plugins/SailorMoonTCG/decks/2_Player_Starter_Mercury_Venus.dek	https://raw.githubusercontent.com/wishmstr/SailorMoonTCG/main/decks/2_Player_Starter_Mercury_Venus.dek	196431
+plugins/SailorMoonTCG/decks/2_Player_Starter_Moon_Mars.dek	https://raw.githubusercontent.com/wishmstr/SailorMoonTCG/main/decks/2_Player_Starter_Moon_Mars.dek	194007
+plugins/SailorMoonTCG/decks/Future_Deck.dek	https://raw.githubusercontent.com/wishmstr/SailorMoonTCG/main/decks/Future_Deck.dek	383069
+plugins/SailorMoonTCG/decks/Past_Deck.dek	https://raw.githubusercontent.com/wishmstr/SailorMoonTCG/main/decks/Past_Deck.dek	374778
+plugins/SailorMoonTCG/decks/Sailor_Jupiter_Character_Deck.dek	https://raw.githubusercontent.com/wishmstr/SailorMoonTCG/main/decks/Sailor_Jupiter_Character_Deck.dek	354946
+plugins/SailorMoonTCG/decks/Sailor_Mars_Character_Deck.dek	https://raw.githubusercontent.com/wishmstr/SailorMoonTCG/main/decks/Sailor_Mars_Character_Deck.dek	351528
+plugins/SailorMoonTCG/decks/Sailor_Mercury_Character_Deck.dek	https://raw.githubusercontent.com/wishmstr/SailorMoonTCG/main/decks/Sailor_Mercury_Character_Deck.dek	357912
+plugins/SailorMoonTCG/decks/Sailor_Moon_Character_Deck.dek	https://raw.githubusercontent.com/wishmstr/SailorMoonTCG/main/decks/Sailor_Moon_Character_Deck.dek	351638
+plugins/SailorMoonTCG/decks/Sailor_Venus_Character_Deck.dek	https://raw.githubusercontent.com/wishmstr/SailorMoonTCG/main/decks/Sailor_Venus_Character_Deck.dek	359624
+plugins/SailorMoonTCG/decks/Tuxedo_Mask_Character_Deck.dek	https://raw.githubusercontent.com/wishmstr/SailorMoonTCG/main/decks/Tuxedo_Mask_Character_Deck.dek	350949
 CardURLFiles:
 CardImageURLs1.txt
