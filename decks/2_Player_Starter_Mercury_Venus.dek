@@ -1,0 +1,44 @@
+<deck version="0.8">
+	<meta>
+		<game>SailorMoonTCG</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="001">Body</name><set>Premiere</set></card>
+		<card><name id="001">Body</name><set>Premiere</set></card>
+		<card><name id="002">Mind</name><set>Premiere</set></card>
+		<card><name id="002">Mind</name><set>Premiere</set></card>
+		<card><name id="002">Mind</name><set>Premiere</set></card>
+		<card><name id="002">Mind</name><set>Premiere</set></card>
+		<card><name id="002">Mind</name><set>Premiere</set></card>
+		<card><name id="002">Mind</name><set>Premiere</set></card>
+		<card><name id="002">Mind</name><set>Premiere</set></card>
+		<card><name id="002">Mind</name><set>Premiere</set></card>
+		<card><name id="002">Mind</name><set>Premiere</set></card>
+		<card><name id="005">Kyurene/Garoben</name><set>Premiere</set></card>
+		<card><name id="015">Bakene</name><set>Premiere</set></card>
+		<card><name id="016">Mitsuaami</name><set>Premiere</set></card>
+		<card><name id="017">Polite Society</name><set>Premiere</set></card>
+		<card><name id="019">Papion</name><set>Premiere</set></card>
+		<card><name id="040">Chad Kumada</name><set>Premiere</set></card>
+		<card><name id="044">Mini-Computer &amp; VR Goggles</name><set>Premiere</set></card>
+		<card><name id="054">Cram School</name><set>Premiere</set></card>
+		<card><name id="057">Combat Training</name><set>Premiere</set></card>
+		<card><name id="058">Run Away!</name><set>Premiere</set></card>
+		<card><name id="069">Ninjana</name><set>Premiere</set></card>
+		<card><name id="070">Doom &amp; Gloom Girls</name><set>Premiere</set></card>
+		<card><name id="115">Sailor Mercury, Level 2</name><set>Premiere</set></card>
+		<card><name id="119">Jedite</name><set>Premiere</set></card>
+		<card><name id="138">Malachite</name><set>Premiere</set></card>
+		<card><name id="110">Sailor Venus, Level 1</name><set>Premiere</set></card>
+	</superzone>
+	<superzone name="Starting">
+		<card><name id="008">Leo the Lion</name><set>Premiere</set></card>
+		<card><name id="044">Mini-Computer &amp; VR Goggles</name><set>Premiere</set></card>
+		<card><name id="107">Sailor Mercury, Level 1</name><set>Premiere</set></card>
+	</superzone>
+	<superzone name="JKP">
+		<card><name id="000_jan">Jan</name><set>JKP</set></card>
+		<card><name id="000_ken">Ken</name><set>JKP</set></card>
+		<card><name id="000_pon">Pon</name><set>JKP</set></card>
+	</superzone>
+</deck>

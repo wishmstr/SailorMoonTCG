@@ -1,0 +1,74 @@
+<deck version="0.8">
+	<meta>
+		<game>SailorMoonTCG</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="002">Mind</name><set>Premiere</set></card>
+		<card><name id="002">Mind</name><set>Premiere</set></card>
+		<card><name id="002">Mind</name><set>Premiere</set></card>
+		<card><name id="002">Mind</name><set>Premiere</set></card>
+		<card><name id="002">Mind</name><set>Premiere</set></card>
+		<card><name id="002">Mind</name><set>Premiere</set></card>
+		<card><name id="002">Mind</name><set>Premiere</set></card>
+		<card><name id="002">Mind</name><set>Premiere</set></card>
+		<card><name id="002">Mind</name><set>Premiere</set></card>
+		<card><name id="002">Mind</name><set>Premiere</set></card>
+		<card><name id="002">Mind</name><set>Premiere</set></card>
+		<card><name id="002">Mind</name><set>Premiere</set></card>
+		<card><name id="002">Mind</name><set>Premiere</set></card>
+		<card><name id="002">Mind</name><set>Premiere</set></card>
+		<card><name id="002">Mind</name><set>Premiere</set></card>
+		<card><name id="002">Mind</name><set>Premiere</set></card>
+		<card><name id="002">Mind</name><set>Premiere</set></card>
+		<card><name id="002">Mind</name><set>Premiere</set></card>
+		<card><name id="002">Mind</name><set>Premiere</set></card>
+		<card><name id="002">Mind</name><set>Premiere</set></card>
+		<card><name id="002">Mind</name><set>Premiere</set></card>
+		<card><name id="002">Mind</name><set>Premiere</set></card>
+		<card><name id="002">Mind</name><set>Premiere</set></card>
+		<card><name id="002">Mind</name><set>Premiere</set></card>
+		<card><name id="007">Black Widow</name><set>Premiere</set></card>
+		<card><name id="008">Leo the Lion</name><set>Premiere</set></card>
+		<card><name id="016">Mitsuaami</name><set>Premiere</set></card>
+		<card><name id="018">Fro/Blizzard</name><set>Premiere</set></card>
+		<card><name id="020">Mud Minion Horde</name><set>Premiere</set></card>
+		<card><name id="020">Mud Minion Horde</name><set>Premiere</set></card>
+		<card><name id="029">Frosty/Hypnotica</name><set>Premiere</set></card>
+		<card><name id="029">Frosty/Hypnotica</name><set>Premiere</set></card>
+		<card><name id="036">Luna</name><set>Premiere</set></card>
+		<card><name id="038">Melvin Gurio</name><set>Premiere</set></card>
+		<card><name id="044">Mini-Computer &amp; VR Goggles</name><set>Premiere</set></card>
+		<card><name id="046">Love Letter</name><set>Premiere</set></card>
+		<card><name id="049">Damage Transfer</name><set>Premiere</set></card>
+		<card><name id="049">Damage Transfer</name><set>Premiere</set></card>
+		<card><name id="050">Good Night&apos;s Rest</name><set>Premiere</set></card>
+		<card><name id="058">Run Away!</name><set>Premiere</set></card>
+		<card><name id="066">Derela/Kyameran</name><set>Premiere</set></card>
+		<card><name id="066">Derela/Kyameran</name><set>Premiere</set></card>
+		<card><name id="069">Ninjana</name><set>Premiere</set></card>
+		<card><name id="074">Skulker</name><set>Premiere</set></card>
+		<card><name id="074">Skulker</name><set>Premiere</set></card>
+		<card><name id="081">Mistrust</name><set>Premiere</set></card>
+		<card><name id="081">Mistrust</name><set>Premiere</set></card>
+		<card><name id="083">Ms. Haruna</name><set>Premiere</set></card>
+		<card><name id="094">Confusion</name><set>Premiere</set></card>
+		<card><name id="094">Confusion</name><set>Premiere</set></card>
+		<card><name id="102">Hidden</name><set>Premiere</set></card>
+		<card><name id="115">Sailor Mercury, Level 2</name><set>Premiere</set></card>
+		<card><name id="115">Sailor Mercury, Level 2</name><set>Premiere</set></card>
+		<card><name id="133">Sailor Mercury, Level 3</name><set>Premiere</set></card>
+		<card><name id="119">Jedite</name><set>Premiere</set></card>
+		<card><name id="143">Bertie</name><set>Premiere</set></card>
+		<card><name id="149">Prince Diamond</name><set>Premiere</set></card>
+	</superzone>
+	<superzone name="Starting">
+		<card><name id="015">Bakene</name><set>Premiere</set></card>
+		<card><name id="044">Mini-Computer &amp; VR Goggles</name><set>Premiere</set></card>
+		<card><name id="107">Sailor Mercury, Level 1</name><set>Premiere</set></card>
+	</superzone>
+	<superzone name="JKP">
+		<card><name id="000_pon">Pon</name><set>JKP</set></card>
+		<card><name id="000_jan">Jan</name><set>JKP</set></card>
+		<card><name id="000_ken">Ken</name><set>JKP</set></card>
+	</superzone>
+</deck>

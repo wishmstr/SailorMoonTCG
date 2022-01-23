@@ -1,0 +1,74 @@
+<deck version="0.8">
+	<meta>
+		<game>SailorMoonTCG</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="114">Sailor Moon, Level 2</name><set>Premiere</set></card>
+		<card><name id="114">Sailor Moon, Level 2</name><set>Premiere</set></card>
+		<card><name id="132">Sailor Moon, Level 3</name><set>Premiere</set></card>
+		<card><name id="001">Body</name><set>Premiere</set></card>
+		<card><name id="001">Body</name><set>Premiere</set></card>
+		<card><name id="001">Body</name><set>Premiere</set></card>
+		<card><name id="001">Body</name><set>Premiere</set></card>
+		<card><name id="001">Body</name><set>Premiere</set></card>
+		<card><name id="003">Soul</name><set>Premiere</set></card>
+		<card><name id="003">Soul</name><set>Premiere</set></card>
+		<card><name id="003">Soul</name><set>Premiere</set></card>
+		<card><name id="003">Soul</name><set>Premiere</set></card>
+		<card><name id="003">Soul</name><set>Premiere</set></card>
+		<card><name id="003">Soul</name><set>Premiere</set></card>
+		<card><name id="003">Soul</name><set>Premiere</set></card>
+		<card><name id="003">Soul</name><set>Premiere</set></card>
+		<card><name id="003">Soul</name><set>Premiere</set></card>
+		<card><name id="003">Soul</name><set>Premiere</set></card>
+		<card><name id="003">Soul</name><set>Premiere</set></card>
+		<card><name id="003">Soul</name><set>Premiere</set></card>
+		<card><name id="003">Soul</name><set>Premiere</set></card>
+		<card><name id="003">Soul</name><set>Premiere</set></card>
+		<card><name id="003">Soul</name><set>Premiere</set></card>
+		<card><name id="003">Soul</name><set>Premiere</set></card>
+		<card><name id="003">Soul</name><set>Premiere</set></card>
+		<card><name id="003">Soul</name><set>Premiere</set></card>
+		<card><name id="003">Soul</name><set>Premiere</set></card>
+		<card><name id="011">Bobo the Vulture</name><set>Premiere</set></card>
+		<card><name id="020">Mud Minion Horde</name><set>Premiere</set></card>
+		<card><name id="020">Mud Minion Horde</name><set>Premiere</set></card>
+		<card><name id="021">Faraion</name><set>Premiere</set></card>
+		<card><name id="021">Faraion</name><set>Premiere</set></card>
+		<card><name id="024">Vulturos</name><set>Premiere</set></card>
+		<card><name id="024">Vulturos</name><set>Premiere</set></card>
+		<card><name id="027">Pierrot</name><set>Premiere</set></card>
+		<card><name id="027">Pierrot</name><set>Premiere</set></card>
+		<card><name id="036">Luna</name><set>Premiere</set></card>
+		<card><name id="047">Knight Armor</name><set>Premiere</set></card>
+		<card><name id="049">Damage Transfer</name><set>Premiere</set></card>
+		<card><name id="049">Damage Transfer</name><set>Premiere</set></card>
+		<card><name id="050">Good Night&apos;s Rest</name><set>Premiere</set></card>
+		<card><name id="058">Run Away!</name><set>Premiere</set></card>
+		<card><name id="059">What&apos;s That?</name><set>Premiere</set></card>
+		<card><name id="061">Baamu</name><set>Premiere</set></card>
+		<card><name id="071">Water Sprite</name><set>Premiere</set></card>
+		<card><name id="071">Water Sprite</name><set>Premiere</set></card>
+		<card><name id="072">Vampeal</name><set>Premiere</set></card>
+		<card><name id="073">Minotaur</name><set>Premiere</set></card>
+		<card><name id="075">Insectia</name><set>Premiere</set></card>
+		<card><name id="086">Sammy Tsukino</name><set>Premiere</set></card>
+		<card><name id="087">Luna Pen</name><set>Premiere</set></card>
+		<card><name id="089">Cardian Flute</name><set>Premiere</set></card>
+		<card><name id="093">FM No. 10</name><set>Premiere</set></card>
+		<card><name id="093">FM No. 10</name><set>Premiere</set></card>
+		<card><name id="120">Zoycite</name><set>Premiere</set></card>
+		<card><name id="139">Evil Prince Darien</name><set>Premiere</set></card>
+		<card><name id="140">Alan</name><set>Premiere</set></card>
+	</superzone>
+	<superzone name="Starting">
+		<card><name id="106">Sailor Moon, Level 1</name><set>Premiere</set></card>
+		<card><name id="038">Melvin Gurio</name><set>Premiere</set></card>
+		<card><name id="006">Titus</name><set>Premiere</set></card>
+	</superzone>
+	<superzone name="JKP">
+		<card><name id="000_ken">Ken</name><set>JKP</set></card>
+		<card><name id="000_jan">Jan</name><set>JKP</set></card>
+		<card><name id="000_pon">Pon</name><set>JKP</set></card>
+	</superzone>
+</deck>

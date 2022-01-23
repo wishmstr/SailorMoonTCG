@@ -1,0 +1,74 @@
+<deck version="0.8">
+	<meta>
+		<game>SailorMoonTCG</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="002">Mind</name><set>Premiere</set></card>
+		<card><name id="002">Mind</name><set>Premiere</set></card>
+		<card><name id="002">Mind</name><set>Premiere</set></card>
+		<card><name id="002">Mind</name><set>Premiere</set></card>
+		<card><name id="002">Mind</name><set>Premiere</set></card>
+		<card><name id="002">Mind</name><set>Premiere</set></card>
+		<card><name id="002">Mind</name><set>Premiere</set></card>
+		<card><name id="002">Mind</name><set>Premiere</set></card>
+		<card><name id="002">Mind</name><set>Premiere</set></card>
+		<card><name id="002">Mind</name><set>Premiere</set></card>
+		<card><name id="002">Mind</name><set>Premiere</set></card>
+		<card><name id="002">Mind</name><set>Premiere</set></card>
+		<card><name id="002">Mind</name><set>Premiere</set></card>
+		<card><name id="002">Mind</name><set>Premiere</set></card>
+		<card><name id="002">Mind</name><set>Premiere</set></card>
+		<card><name id="002">Mind</name><set>Premiere</set></card>
+		<card><name id="002">Mind</name><set>Premiere</set></card>
+		<card><name id="002">Mind</name><set>Premiere</set></card>
+		<card><name id="002">Mind</name><set>Premiere</set></card>
+		<card><name id="002">Mind</name><set>Premiere</set></card>
+		<card><name id="002">Mind</name><set>Premiere</set></card>
+		<card><name id="002">Mind</name><set>Premiere</set></card>
+		<card><name id="002">Mind</name><set>Premiere</set></card>
+		<card><name id="002">Mind</name><set>Premiere</set></card>
+		<card><name id="005">Kyurene/Garoben</name><set>Premiere</set></card>
+		<card><name id="017">Polite Society</name><set>Premiere</set></card>
+		<card><name id="019">Papion</name><set>Premiere</set></card>
+		<card><name id="020">Mud Minion Horde</name><set>Premiere</set></card>
+		<card><name id="020">Mud Minion Horde</name><set>Premiere</set></card>
+		<card><name id="031">Avocado</name><set>Premiere</set></card>
+		<card><name id="031">Avocado</name><set>Premiere</set></card>
+		<card><name id="033">Animal Instinct</name><set>Premiere</set></card>
+		<card><name id="033">Animal Instinct</name><set>Premiere</set></card>
+		<card><name id="036">Luna</name><set>Premiere</set></card>
+		<card><name id="040">Chad Kumada</name><set>Premiere</set></card>
+		<card><name id="048">Negaverse Sword</name><set>Premiere</set></card>
+		<card><name id="048">Negaverse Sword</name><set>Premiere</set></card>
+		<card><name id="049">Damage Transfer</name><set>Premiere</set></card>
+		<card><name id="049">Damage Transfer</name><set>Premiere</set></card>
+		<card><name id="050">Good Night&apos;s Rest</name><set>Premiere</set></card>
+		<card><name id="058">Run Away!</name><set>Premiere</set></card>
+		<card><name id="063">Ramoir/Dream Dolly</name><set>Premiere</set></card>
+		<card><name id="063">Ramoir/Dream Dolly</name><set>Premiere</set></card>
+		<card><name id="065">Petasos/Gemini Warriors</name><set>Premiere</set></card>
+		<card><name id="065">Petasos/Gemini Warriors</name><set>Premiere</set></card>
+		<card><name id="080">Injector</name><set>Premiere</set></card>
+		<card><name id="080">Injector</name><set>Premiere</set></card>
+		<card><name id="092">Dark Crystal Wedge</name><set>Premiere</set></card>
+		<card><name id="096">Discovery!</name><set>Premiere</set></card>
+		<card><name id="096">Discovery!</name><set>Premiere</set></card>
+		<card><name id="101">Green Yoma From London</name><set>Premiere</set></card>
+		<card><name id="118">Sailor Venus, Level 2</name><set>Premiere</set></card>
+		<card><name id="118">Sailor Venus, Level 2</name><set>Premiere</set></card>
+		<card><name id="136">Sailor Venus, Level 3</name><set>Premiere</set></card>
+		<card><name id="119">Jedite</name><set>Premiere</set></card>
+		<card><name id="147">Emerald</name><set>Premiere</set></card>
+		<card><name id="148">Sapphire</name><set>Premiere</set></card>
+	</superzone>
+	<superzone name="Starting">
+		<card><name id="082">Artemis</name><set>Premiere</set></card>
+		<card><name id="110">Sailor Venus, Level 1</name><set>Premiere</set></card>
+		<card><name id="008">Leo the Lion</name><set>Premiere</set></card>
+	</superzone>
+	<superzone name="JKP">
+		<card><name id="000_pon">Pon</name><set>JKP</set></card>
+		<card><name id="000_jan">Jan</name><set>JKP</set></card>
+		<card><name id="000_ken">Ken</name><set>JKP</set></card>
+	</superzone>
+</deck>

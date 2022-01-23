@@ -1,0 +1,74 @@
+<deck version="0.8">
+	<meta>
+		<game>SailorMoonTCG</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="001">Body</name><set>Premiere</set></card>
+		<card><name id="001">Body</name><set>Premiere</set></card>
+		<card><name id="001">Body</name><set>Premiere</set></card>
+		<card><name id="001">Body</name><set>Premiere</set></card>
+		<card><name id="001">Body</name><set>Premiere</set></card>
+		<card><name id="001">Body</name><set>Premiere</set></card>
+		<card><name id="001">Body</name><set>Premiere</set></card>
+		<card><name id="001">Body</name><set>Premiere</set></card>
+		<card><name id="001">Body</name><set>Premiere</set></card>
+		<card><name id="001">Body</name><set>Premiere</set></card>
+		<card><name id="001">Body</name><set>Premiere</set></card>
+		<card><name id="001">Body</name><set>Premiere</set></card>
+		<card><name id="001">Body</name><set>Premiere</set></card>
+		<card><name id="001">Body</name><set>Premiere</set></card>
+		<card><name id="001">Body</name><set>Premiere</set></card>
+		<card><name id="001">Body</name><set>Premiere</set></card>
+		<card><name id="001">Body</name><set>Premiere</set></card>
+		<card><name id="001">Body</name><set>Premiere</set></card>
+		<card><name id="001">Body</name><set>Premiere</set></card>
+		<card><name id="001">Body</name><set>Premiere</set></card>
+		<card><name id="001">Body</name><set>Premiere</set></card>
+		<card><name id="001">Body</name><set>Premiere</set></card>
+		<card><name id="001">Body</name><set>Premiere</set></card>
+		<card><name id="001">Body</name><set>Premiere</set></card>
+		<card><name id="004">Morga/Kigaan</name><set>Premiere</set></card>
+		<card><name id="005">Kyurene/Garoben</name><set>Premiere</set></card>
+		<card><name id="007">Black Widow</name><set>Premiere</set></card>
+		<card><name id="010">Game Machine Man</name><set>Premiere</set></card>
+		<card><name id="020">Mud Minion Horde</name><set>Premiere</set></card>
+		<card><name id="020">Mud Minion Horde</name><set>Premiere</set></card>
+		<card><name id="030">Thunderclap</name><set>Premiere</set></card>
+		<card><name id="030">Thunderclap</name><set>Premiere</set></card>
+		<card><name id="036">Luna</name><set>Premiere</set></card>
+		<card><name id="040">Chad Kumada</name><set>Premiere</set></card>
+		<card><name id="047">Knight Armor</name><set>Premiere</set></card>
+		<card><name id="048">Negaverse Sword</name><set>Premiere</set></card>
+		<card><name id="049">Damage Transfer</name><set>Premiere</set></card>
+		<card><name id="049">Damage Transfer</name><set>Premiere</set></card>
+		<card><name id="050">Good Night&apos;s Rest</name><set>Premiere</set></card>
+		<card><name id="058">Run Away!</name><set>Premiere</set></card>
+		<card><name id="064">Tensie/Akan</name><set>Premiere</set></card>
+		<card><name id="067">Jumo</name><set>Premiere</set></card>
+		<card><name id="068">Pox</name><set>Premiere</set></card>
+		<card><name id="076">Jellax/Droido</name><set>Premiere</set></card>
+		<card><name id="076">Jellax/Droido</name><set>Premiere</set></card>
+		<card><name id="077">Rhonda</name><set>Premiere</set></card>
+		<card><name id="077">Rhonda</name><set>Premiere</set></card>
+		<card><name id="084">Andrew Furuhata</name><set>Premiere</set></card>
+		<card><name id="091">Dark Fruit</name><set>Premiere</set></card>
+		<card><name id="097">Redistribute Power</name><set>Premiere</set></card>
+		<card><name id="100">Regeneration</name><set>Premiere</set></card>
+		<card><name id="117">Sailor Jupiter, Level 2</name><set>Premiere</set></card>
+		<card><name id="117">Sailor Jupiter, Level 2</name><set>Premiere</set></card>
+		<card><name id="135">Sailor Jupiter, Level 3</name><set>Premiere</set></card>
+		<card><name id="119">Jedite</name><set>Premiere</set></card>
+		<card><name id="145">Prizma</name><set>Premiere</set></card>
+		<card><name id="150">Wicked Lady</name><set>Premiere</set></card>
+	</superzone>
+	<superzone name="Starting">
+		<card><name id="015">Bakene</name><set>Premiere</set></card>
+		<card><name id="042">Lunch!</name><set>Premiere</set></card>
+		<card><name id="109">Sailor Jupiter, Level 1</name><set>Premiere</set></card>
+	</superzone>
+	<superzone name="JKP">
+		<card><name id="000_jan">Jan</name><set>JKP</set></card>
+		<card><name id="000_pon">Pon</name><set>JKP</set></card>
+		<card><name id="000_ken">Ken</name><set>JKP</set></card>
+	</superzone>
+</deck>

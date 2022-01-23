@@ -1,0 +1,74 @@
+<deck version="0.8">
+	<meta>
+		<game>SailorMoonTCG</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="001">Body</name><set>Premiere</set></card>
+		<card><name id="001">Body</name><set>Premiere</set></card>
+		<card><name id="001">Body</name><set>Premiere</set></card>
+		<card><name id="001">Body</name><set>Premiere</set></card>
+		<card><name id="001">Body</name><set>Premiere</set></card>
+		<card><name id="003">Soul</name><set>Premiere</set></card>
+		<card><name id="003">Soul</name><set>Premiere</set></card>
+		<card><name id="003">Soul</name><set>Premiere</set></card>
+		<card><name id="003">Soul</name><set>Premiere</set></card>
+		<card><name id="003">Soul</name><set>Premiere</set></card>
+		<card><name id="003">Soul</name><set>Premiere</set></card>
+		<card><name id="003">Soul</name><set>Premiere</set></card>
+		<card><name id="003">Soul</name><set>Premiere</set></card>
+		<card><name id="003">Soul</name><set>Premiere</set></card>
+		<card><name id="003">Soul</name><set>Premiere</set></card>
+		<card><name id="003">Soul</name><set>Premiere</set></card>
+		<card><name id="003">Soul</name><set>Premiere</set></card>
+		<card><name id="003">Soul</name><set>Premiere</set></card>
+		<card><name id="003">Soul</name><set>Premiere</set></card>
+		<card><name id="003">Soul</name><set>Premiere</set></card>
+		<card><name id="003">Soul</name><set>Premiere</set></card>
+		<card><name id="003">Soul</name><set>Premiere</set></card>
+		<card><name id="003">Soul</name><set>Premiere</set></card>
+		<card><name id="003">Soul</name><set>Premiere</set></card>
+		<card><name id="011">Bobo the Vulture</name><set>Premiere</set></card>
+		<card><name id="020">Mud Minion Horde</name><set>Premiere</set></card>
+		<card><name id="020">Mud Minion Horde</name><set>Premiere</set></card>
+		<card><name id="025">Amphibia</name><set>Premiere</set></card>
+		<card><name id="025">Amphibia</name><set>Premiere</set></card>
+		<card><name id="026">Mophead</name><set>Premiere</set></card>
+		<card><name id="026">Mophead</name><set>Premiere</set></card>
+		<card><name id="028">Four Face</name><set>Premiere</set></card>
+		<card><name id="028">Four Face</name><set>Premiere</set></card>
+		<card><name id="036">Luna</name><set>Premiere</set></card>
+		<card><name id="040">Chad Kumada</name><set>Premiere</set></card>
+		<card><name id="045">Ofuda Scroll</name><set>Premiere</set></card>
+		<card><name id="045">Ofuda Scroll</name><set>Premiere</set></card>
+		<card><name id="049">Damage Transfer</name><set>Premiere</set></card>
+		<card><name id="049">Damage Transfer</name><set>Premiere</set></card>
+		<card><name id="058">Run Away!</name><set>Premiere</set></card>
+		<card><name id="061">Baamu</name><set>Premiere</set></card>
+		<card><name id="072">Vampeal</name><set>Premiere</set></card>
+		<card><name id="073">Minotaur</name><set>Premiere</set></card>
+		<card><name id="075">Insectia</name><set>Premiere</set></card>
+		<card><name id="079">Regalia</name><set>Premiere</set></card>
+		<card><name id="079">Regalia</name><set>Premiere</set></card>
+		<card><name id="088">Negaverse Crystal</name><set>Premiere</set></card>
+		<card><name id="089">Cardian Flute</name><set>Premiere</set></card>
+		<card><name id="095">Temple Blessing</name><set>Premiere</set></card>
+		<card><name id="095">Temple Blessing</name><set>Premiere</set></card>
+		<card><name id="105">Negative Energy Shield</name><set>Premiere</set></card>
+		<card><name id="116">Sailor Mars, Level 2</name><set>Premiere</set></card>
+		<card><name id="116">Sailor Mars, Level 2</name><set>Premiere</set></card>
+		<card><name id="134">Sailor Mars, Level 3</name><set>Premiere</set></card>
+		<card><name id="120">Zoycite</name><set>Premiere</set></card>
+		<card><name id="141">Ann</name><set>Premiere</set></card>
+		<card><name id="142">Catzi</name><set>Premiere</set></card>
+	</superzone>
+	<superzone name="Starting">
+		<card><name id="006">Titus</name><set>Premiere</set></card>
+		<card><name id="039">Grandpa Hino</name><set>Premiere</set></card>
+		<card><name id="108">Sailor Mars, Level 1</name><set>Premiere</set></card>
+	</superzone>
+	<superzone name="JKP">
+		<card><name id="000_jan">Jan</name><set>JKP</set></card>
+		<card><name id="000_ken">Ken</name><set>JKP</set></card>
+		<card><name id="000_pon">Pon</name><set>JKP</set></card>
+	</superzone>
+</deck>

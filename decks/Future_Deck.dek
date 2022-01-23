@@ -1,0 +1,74 @@
+<deck version="0.8">
+	<meta>
+		<game>SailorMoonTCG</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="004">Dark Moon Minions</name><set>Past_and_Future</set></card>
+		<card><name id="004">Dark Moon Minions</name><set>Past_and_Future</set></card>
+		<card><name id="004">Dark Moon Minions</name><set>Past_and_Future</set></card>
+		<card><name id="016">Fond Memories</name><set>Past_and_Future</set></card>
+		<card><name id="016">Fond Memories</name><set>Past_and_Future</set></card>
+		<card><name id="019">Distracted By a Kiss</name><set>Past_and_Future</set></card>
+		<card><name id="019">Distracted By a Kiss</name><set>Past_and_Future</set></card>
+		<card><name id="023">Crown Game Arcade</name><set>Past_and_Future</set></card>
+		<card><name id="024">Hall of Clocks</name><set>Past_and_Future</set></card>
+		<card><name id="024">Hall of Clocks</name><set>Past_and_Future</set></card>
+		<card><name id="032">Dark Moon Soldiers</name><set>Past_and_Future</set></card>
+		<card><name id="032">Dark Moon Soldiers</name><set>Past_and_Future</set></card>
+		<card><name id="033">Princess Diamond</name><set>Past_and_Future</set></card>
+		<card><name id="035">While the Cat&apos;s Away...</name><set>Past_and_Future</set></card>
+		<card><name id="037">Alone</name><set>Past_and_Future</set></card>
+		<card><name id="046">Body/Mind</name><set>Past_and_Future</set></card>
+		<card><name id="047">Body/Soul</name><set>Past_and_Future</set></card>
+		<card><name id="048">Soul/Mind</name><set>Past_and_Future</set></card>
+		<card><name id="049">Mind/Body/Soul</name><set>Past_and_Future</set></card>
+		<card><name id="052">Dark Crystal</name><set>Past_and_Future</set></card>
+		<card><name id="054">Princess Rini, Level 2</name><set>Past_and_Future</set></card>
+		<card><name id="057">Young Alan &amp; Ann</name><set>Past_and_Future</set></card>
+		<card><name id="068">Crystal Tokyo</name><set>Past_and_Future</set></card>
+		<card><name id="001">Body</name><set>Premiere</set></card>
+		<card><name id="001">Body</name><set>Premiere</set></card>
+		<card><name id="001">Body</name><set>Premiere</set></card>
+		<card><name id="001">Body</name><set>Premiere</set></card>
+		<card><name id="001">Body</name><set>Premiere</set></card>
+		<card><name id="001">Body</name><set>Premiere</set></card>
+		<card><name id="001">Body</name><set>Premiere</set></card>
+		<card><name id="001">Body</name><set>Premiere</set></card>
+		<card><name id="001">Body</name><set>Premiere</set></card>
+		<card><name id="001">Body</name><set>Premiere</set></card>
+		<card><name id="001">Body</name><set>Premiere</set></card>
+		<card><name id="001">Body</name><set>Premiere</set></card>
+		<card><name id="003">Soul</name><set>Premiere</set></card>
+		<card><name id="003">Soul</name><set>Premiere</set></card>
+		<card><name id="003">Soul</name><set>Premiere</set></card>
+		<card><name id="003">Soul</name><set>Premiere</set></card>
+		<card><name id="003">Soul</name><set>Premiere</set></card>
+		<card><name id="003">Soul</name><set>Premiere</set></card>
+		<card><name id="003">Soul</name><set>Premiere</set></card>
+		<card><name id="003">Soul</name><set>Premiere</set></card>
+		<card><name id="003">Soul</name><set>Premiere</set></card>
+		<card><name id="024">Vulturos</name><set>Premiere</set></card>
+		<card><name id="024">Vulturos</name><set>Premiere</set></card>
+		<card><name id="042">Lunch!</name><set>Premiere</set></card>
+		<card><name id="051">Detention</name><set>Premiere</set></card>
+		<card><name id="085">Serena&apos;s Parents</name><set>Premiere</set></card>
+		<card><name id="092">Dark Crystal Wedge</name><set>Premiere</set></card>
+		<card><name id="105">Negative Energy Shield</name><set>Premiere</set></card>
+		<card><name id="109">Sailor Jupiter, Level 1</name><set>Premiere</set></card>
+		<card><name id="117">Sailor Jupiter, Level 2</name><set>Premiere</set></card>
+		<card><name id="135">Sailor Jupiter, Level 3</name><set>Premiere</set></card>
+		<card><name id="128">Strength of the Fallen</name><set>Premiere</set></card>
+		<card><name id="146">Rubeus</name><set>Premiere</set></card>
+		<card><name id="021">Faraion</name><set>Premiere</set></card>
+	</superzone>
+	<superzone name="Starting">
+		<card><name id="045">Young Rini, Level 1</name><set>Past_and_Future</set></card>
+		<card><name id="090">Luna Ball</name><set>Premiere</set></card>
+		<card><name id="021">Faraion</name><set>Premiere</set></card>
+	</superzone>
+	<superzone name="JKP">
+		<card><name id="000_jan">Jan</name><set>JKP</set></card>
+		<card><name id="000_ken">Ken</name><set>JKP</set></card>
+		<card><name id="000_pon">Pon</name><set>JKP</set></card>
+	</superzone>
+</deck>
