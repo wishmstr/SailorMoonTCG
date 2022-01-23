@@ -1,0 +1,74 @@
+<deck version="0.8">
+	<meta>
+		<game>SailorMoonTCG</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="003">Evil Melvin Horde</name><set>Past_and_Future</set></card>
+		<card><name id="006">Maxfield Stanton</name><set>Past_and_Future</set></card>
+		<card><name id="011">Hot Soup</name><set>Past_and_Future</set></card>
+		<card><name id="016">Fond Memories</name><set>Past_and_Future</set></card>
+		<card><name id="016">Fond Memories</name><set>Past_and_Future</set></card>
+		<card><name id="017">Free Power</name><set>Past_and_Future</set></card>
+		<card><name id="022">Serena&apos;s House</name><set>Past_and_Future</set></card>
+		<card><name id="022">Serena&apos;s House</name><set>Past_and_Future</set></card>
+		<card><name id="026">Airport</name><set>Past_and_Future</set></card>
+		<card><name id="031">Shaneera</name><set>Past_and_Future</set></card>
+		<card><name id="031">Shaneera</name><set>Past_and_Future</set></card>
+		<card><name id="035">While the Cat&apos;s Away...</name><set>Past_and_Future</set></card>
+		<card><name id="036">Things Fall Apart</name><set>Past_and_Future</set></card>
+		<card><name id="036">Things Fall Apart</name><set>Past_and_Future</set></card>
+		<card><name id="046">Body/Mind</name><set>Past_and_Future</set></card>
+		<card><name id="047">Body/Soul</name><set>Past_and_Future</set></card>
+		<card><name id="049">Mind/Body/Soul</name><set>Past_and_Future</set></card>
+		<card><name id="048">Soul/Mind</name><set>Past_and_Future</set></card>
+		<card><name id="056">Earth Prince, Level 2</name><set>Past_and_Future</set></card>
+		<card><name id="058">Doom Tree</name><set>Past_and_Future</set></card>
+		<card><name id="065">Moon Kingdom</name><set>Past_and_Future</set></card>
+		<card><name id="001">Body</name><set>Premiere</set></card>
+		<card><name id="001">Body</name><set>Premiere</set></card>
+		<card><name id="001">Body</name><set>Premiere</set></card>
+		<card><name id="001">Body</name><set>Premiere</set></card>
+		<card><name id="001">Body</name><set>Premiere</set></card>
+		<card><name id="001">Body</name><set>Premiere</set></card>
+		<card><name id="001">Body</name><set>Premiere</set></card>
+		<card><name id="001">Body</name><set>Premiere</set></card>
+		<card><name id="001">Body</name><set>Premiere</set></card>
+		<card><name id="001">Body</name><set>Premiere</set></card>
+		<card><name id="001">Body</name><set>Premiere</set></card>
+		<card><name id="001">Body</name><set>Premiere</set></card>
+		<card><name id="003">Soul</name><set>Premiere</set></card>
+		<card><name id="003">Soul</name><set>Premiere</set></card>
+		<card><name id="003">Soul</name><set>Premiere</set></card>
+		<card><name id="003">Soul</name><set>Premiere</set></card>
+		<card><name id="003">Soul</name><set>Premiere</set></card>
+		<card><name id="003">Soul</name><set>Premiere</set></card>
+		<card><name id="003">Soul</name><set>Premiere</set></card>
+		<card><name id="003">Soul</name><set>Premiere</set></card>
+		<card><name id="003">Soul</name><set>Premiere</set></card>
+		<card><name id="015">Bakene</name><set>Premiere</set></card>
+		<card><name id="023">Racy</name><set>Premiere</set></card>
+		<card><name id="023">Racy</name><set>Premiere</set></card>
+		<card><name id="036">Luna</name><set>Premiere</set></card>
+		<card><name id="056">Rats!</name><set>Premiere</set></card>
+		<card><name id="056">Rats!</name><set>Premiere</set></card>
+		<card><name id="075">Insectia</name><set>Premiere</set></card>
+		<card><name id="075">Insectia</name><set>Premiere</set></card>
+		<card><name id="088">Negaverse Crystal</name><set>Premiere</set></card>
+		<card><name id="089">Cardian Flute</name><set>Premiere</set></card>
+		<card><name id="111">Tuxedo Mask, Level 1</name><set>Premiere</set></card>
+		<card><name id="112">Moonlight Knight, Level 1</name><set>Premiere</set></card>
+		<card><name id="121">Rini</name><set>Premiere</set></card>
+		<card><name id="130">Self-Sacrifice</name><set>Premiere</set></card>
+		<card><name id="139">Evil Prince Darien</name><set>Premiere</set></card>
+	</superzone>
+	<superzone name="Starting">
+		<card><name id="003">Evil Melvin Horde</name><set>Past_and_Future</set></card>
+		<card><name id="055">Queen Serenity, Level 1</name><set>Past_and_Future</set></card>
+		<card><name id="034">Crystal and Wand</name><set>Past_and_Future</set></card>
+	</superzone>
+	<superzone name="JKP">
+		<card><name id="000_jan">Jan</name><set>JKP</set></card>
+		<card><name id="000_ken">Ken</name><set>JKP</set></card>
+		<card><name id="000_pon">Pon</name><set>JKP</set></card>
+	</superzone>
+</deck>
